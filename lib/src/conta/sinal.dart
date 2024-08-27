@@ -1,0 +1,1 @@
+enum Sinal { credito, debito }
